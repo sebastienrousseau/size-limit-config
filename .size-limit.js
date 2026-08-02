@@ -1,0 +1,10 @@
+module.exports = [
+  {
+    path: "dist/index.js",
+    limit: "10 KB"
+  },
+  {
+    path: "dist/index.mjs",
+    limit: "10 KB"
+  }
+];
