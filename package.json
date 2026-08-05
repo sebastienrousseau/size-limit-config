@@ -1,6 +1,6 @@
 {
   "name": "@sebastienrousseau/size-limit-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shareable Size Limit configuration rules enforcing strict performance bundle budgets.",
   "author": "Sebastien Rousseau <sebastienrousseau@users.noreply.github.com>",
   "license": "ISC",
