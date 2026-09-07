@@ -1,7 +1,7 @@
 site_name = "size-limit-config"
 site_title = "@sebastienrousseau/size-limit-config — Shareable Size Limit configuration rules enforcing strict performance bundle budgets."
 site_description = "Shareable Size Limit configuration rules enforcing strict performance bundle budgets."
-base_url = "https://config.sebastienrousseau.com/size-limit-config"
+base_url = "https://sebastienrousseau.com/size-limit-config/"
 language = "en-GB"
 
 content_dir = "web/content"
