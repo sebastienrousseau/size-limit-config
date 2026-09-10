@@ -20,11 +20,14 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. CommonJS Bundle Budget
+
 Enforces 10 KB budget on dist/index.js. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. ESM Bundle Budget
+
 Enforces 10 KB budget on dist/index.mjs. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 3. Automated CI Rejection
+
 Fails pull requests that exceed defined artifact budgets. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
