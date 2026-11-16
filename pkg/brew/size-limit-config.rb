@@ -6,7 +6,7 @@
 class SizeLimitConfig < Formula
   desc "Shareable Size Limit configuration rules enforcing strict performance bundle budgets"
   homepage "https://github.com/sebastienrousseau/size-limit-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/size-limit-config/-/size-limit-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/size-limit-config/-/size-limit-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
